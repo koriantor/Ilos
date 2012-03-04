@@ -1,0 +1,7 @@
+This is where the graphics/images for actual in-game usage are stored.
+
+Currently we are using only .png type files.
+
+As of now, these are the prefixes or file name starts that are being used:
+• menu_
+	corresponds to the game’s start screen, the first interactive screen in the game.
